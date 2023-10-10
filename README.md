@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bugrata
 - 👀 I’m interested in Information Technologies.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Flutter.
 - 📫 You can reach me via my e-mail adress: bugraata2344@gmail.com
 
  <!--
